@@ -1,0 +1,103 @@
+id;project_id;global_id;name;type;level;volume_m3;surface_m2;corps_etat
+307;5;3tCgZT92j6fw8fXgwCL3Jm;Unterzug-1;IfcBeam;Erdgeschoss;0.195838108894;0;À définir
+308;5;0eaC0nL3XAOfFxRXK_2iAr;Pfette-2-1;IfcBeam;Dachgeschoss;0;0;À définir
+309;5;3jZHeNcfvDMf9wG$wx9XqG;Pfette-1-1;IfcBeam;Dachgeschoss;0;0;À définir
+310;5;20bTaetQDApP5w8egFxj13;First;IfcBeam;Dachgeschoss;0;0;À définir
+311;5;1Oms875aH3Wg$9l65H2ZGw;Innentuer-1;IfcDoor;Erdgeschoss;0;0;À définir
+312;5;0pGAjlJMP3ifYPATVF5xAR;Innentuer-2;IfcDoor;Erdgeschoss;0;0;À définir
+313;5;2qiPPF3FrF8OIqfrKiSUqm;Innentuer-3;IfcDoor;Erdgeschoss;0;0;À définir
+314;5;2jTRqchjf7oB0yhQ6462T0;Haustuer;IfcDoor;Erdgeschoss;0;0;À définir
+315;5;1M$gxUrX1Fiwe3P64ww7U5;Terrassentuer;IfcDoor;Erdgeschoss;0;0;À définir
+316;5;0oTQ6V1VbChulreA_hfmUa;Sparren-1;IfcMember;Dachgeschoss;0;0;À définir
+317;5;1tpUOcVEPCGgFqSz0VbniQ;Sparren-2;IfcMember;Dachgeschoss;0;0;À définir
+318;5;1ulHlNTuj798Os3k9phhVC;Sparren-3;IfcMember;Dachgeschoss;0;0;À définir
+319;5;1OckORehXEoB_KILQGJao5;Sparren-4;IfcMember;Dachgeschoss;0;0;À définir
+320;5;0nsN_jkIrBQBuGFMg_zMEg;Sparren-5;IfcMember;Dachgeschoss;0;0;À définir
+321;5;31Quw2HAvFqv$9_JgCuemp;Sparren-6;IfcMember;Dachgeschoss;0;0;À définir
+322;5;35W3cFc4L7MhJR0gIk9uis;Sparren-7;IfcMember;Dachgeschoss;0;0;À définir
+323;5;3F58AqxJfF$QkuoceQhWg3;Sparren-8;IfcMember;Dachgeschoss;0;0;À définir
+324;5;1nGDFBBHvBJ9NmlweQO0fX;Sparren-9;IfcMember;Dachgeschoss;0;0;À définir
+325;5;3qFc3Wrr9BBPJyb2wB$4Ra;Sparren-10;IfcMember;Dachgeschoss;0;0;À définir
+326;5;37ab3q_iz8XRterfnMKTQX;Sparren-11;IfcMember;Dachgeschoss;0;0;À définir
+327;5;3xdLwxTMD7bw4hWoOQL41M;Sparren-12;IfcMember;Dachgeschoss;0;0;À définir
+328;5;2OHMT7B69F5PRG_f3rMcjF;Sparren-13;IfcMember;Dachgeschoss;0;0;À définir
+329;5;34zPS2PUTBDOe7g7RIRXK0;Sparren-14;IfcMember;Dachgeschoss;0;0;À définir
+330;5;0VzptM87L6uOjQj08tTXIQ;Sparren-15;IfcMember;Dachgeschoss;0;0;À définir
+331;5;2CxE0$jXr8iOH1VC2gLCXX;Sparren-16;IfcMember;Dachgeschoss;0;0;À définir
+332;5;3sG$iUZAX499eUK87UfZk_;Sparren-17;IfcMember;Dachgeschoss;0;0;À définir
+333;5;0q1clcN4jF4gdikC9OySy7;Sparren-18;IfcMember;Dachgeschoss;0;0;À définir
+334;5;36KGWr2Rv8QuUhNnocm2nH;Sparren-19;IfcMember;Dachgeschoss;0;0;À définir
+335;5;0OKCG9uG53i9K16_x3YNfz;Sparren-20;IfcMember;Dachgeschoss;0;0;À définir
+336;5;3ePWkSzvLApwXTt3b0I2nV;Sparren-21;IfcMember;Dachgeschoss;0;0;À définir
+337;5;09OmJpUcj4WvNp2dXHFMWj;Sparren-22;IfcMember;Dachgeschoss;0;0;À définir
+338;5;3iSL8frGLDweFar9j4zgJ_;Sparren-23;IfcMember;Dachgeschoss;0;0;À définir
+339;5;23pmL_2aH88OVqWp_5Lfkf;Sparren-24;IfcMember;Dachgeschoss;0;0;À définir
+340;5;06JZMOVBX8VucSQwQ3o$8d;Sparren-25;IfcMember;Dachgeschoss;0;0;À définir
+341;5;31ry3UPYD7weLluBlhQxXZ;Sparren-26;IfcMember;Dachgeschoss;0;0;À définir
+342;5;20AsUDMgH0JwAitydKgsOm;Sparren-27;IfcMember;Dachgeschoss;0;0;À définir
+343;5;2SfSpj_pX9nvTeCOxeKqTd;Sparren-28;IfcMember;Dachgeschoss;0;0;À définir
+344;5;17MHCgVYn2YPLX56yXUJbL;Sparren-29;IfcMember;Dachgeschoss;0;0;À définir
+345;5;2XyYurmzzDOAIoZ52R97Jm;Sparren-30;IfcMember;Dachgeschoss;0;0;À définir
+346;5;0hRh9WB$jCLwlAiq3vfmg9;Sparren-31;IfcMember;Dachgeschoss;0;0;À définir
+347;5;1NBDw_i_jD$u7IjvwmbPmx;Sparren-32;IfcMember;Dachgeschoss;0;0;À définir
+348;5;2DH$OLoObDkAtwqVzNdUnS;Sparren-33;IfcMember;Dachgeschoss;0;0;À définir
+349;5;1qMEiq1Qz6guq8g1GCODiJ;Sparren-34;IfcMember;Dachgeschoss;0;0;À définir
+350;5;2AxITdtlD1h9Y3ye8U93bV;Sparren-35;IfcMember;Dachgeschoss;0;0;À définir
+351;5;0DTRkEz0r6gvzG6VdDr24n;Sparren-36;IfcMember;Dachgeschoss;0;0;À définir
+352;5;3UTqpydzf7i8J6iMY2tHil;Sparren-37;IfcMember;Dachgeschoss;0;0;À définir
+353;5;3CS1rsE3bB7vMHAdjyaamh;Sparren-38;IfcMember;Dachgeschoss;0;0;À définir
+354;5;2jBFZiQw110vV7XY77KKfx;Sparren-39;IfcMember;Dachgeschoss;0;0;À définir
+355;5;22oN_bO9T4jO5eG4GKW7be;Sparren-40;IfcMember;Dachgeschoss;0;0;À définir
+356;5;2in0QvfYXEawl1f3MP1bq2;Sparren-41;IfcMember;Dachgeschoss;0;0;À définir
+357;5;3EgsECVVb6zQXnK3YFcWAu;Sparren-42;IfcMember;Dachgeschoss;0;0;À définir
+358;5;0o5vgCKyTBzO5$QJcI2YDP;Sans nom;IfcRailing;Dachgeschoss;0;0;À définir
+359;5;09axaKU7X1_O8n6dmmiZ1E;Sans nom;IfcRailing;Dachgeschoss;0;0;À définir
+360;5;1pPHnf7cXCpPsNEnQf8_6B;Bodenplatte;IfcSlab;Erdgeschoss;24.0;0;À définir
+361;5;2RGlQk4xH47RHK93zcTzUL;Slab-033;IfcSlab;Dachgeschoss;23.128;0;À définir
+362;5;07Enbsqm9C7AQC9iyBwfSD;Dach-1;IfcSlab;Dachgeschoss;16.5122177149;0;À définir
+363;5;2IxUUNUVPB6Ob$eicCfP2N;Dach-2;IfcSlab;Dachgeschoss;16.5122177149;0;À définir
+364;5;38a9vdh9bF5Qg28GWyHhlr;Wendeltreppe;IfcStair;Erdgeschoss;0;0;À définir
+365;5;2XPyKWY018sA1ygZKgQPtU;Wand-Int-ERDG-4;IfcWallStandardCase;Erdgeschoss;2.49624;1.0008;À définir
+366;5;3PfS__Y_DBAfq5naM6zD2Z;Wand-Int-ERDG-2;IfcWallStandardCase;Erdgeschoss;3.33624;1.3368;À définir
+367;5;2ptk1k7qn8_Qk22vjh$0DE;Wand-Int-ERDG-1;IfcWallStandardCase;Erdgeschoss;2.226;0.8904;À définir
+368;5;3jjW3rL656ex34Gws22EfM;Wand-Int-ERDG-3;IfcWallStandardCase;Erdgeschoss;4.266;1.7064;À définir
+369;5;1$wmdwWPjDYuku_ghVkynE;Wand-Int-ERDG-5;IfcWallStandardCase;Erdgeschoss;2.08896189111;0.84;À définir
+370;5;3rPX_Juz59peXXY6wDJl18;Wand-Ext-ERDG-1;IfcWallStandardCase;Erdgeschoss;7.857;2.91;À définir
+371;5;16DNNqzfP2thtfaOflvsKA;Wand-Ext-ERDG-4;IfcWallStandardCase;Erdgeschoss;9.477;3.51;À définir
+372;5;25fsbPyk15VvuXI$yNKenK;Wand-Ext-ERDG-3;IfcWallStandardCase;Erdgeschoss;7.857;2.91;À définir
+373;5;1bzfVsJqn8De5PukCrqylz;Wand-Ext-ERDG-2;IfcWallStandardCase;Erdgeschoss;9.477;3.51;À définir
+374;5;0knNIAVBPBFvBy_m5QVHsU;Wand-Ext-OG-1;IfcWallStandardCase;Dachgeschoss;5.7799308665;2.91;À définir
+375;5;25OWQvmXj5BPgyergP43tY;Wand-Ext-OG-2;IfcWallStandardCase;Dachgeschoss;2.05637684052;3.51;À définir
+376;5;3VCarUKgH1buLo22Ozxe6J;Wand-Ext-OG-3;IfcWallStandardCase;Dachgeschoss;5.7799308665;2.91;À définir
+377;5;3Ttjr$59XEWfWN1WUHjelZ;Wand-Ext-OG-4;IfcWallStandardCase;Dachgeschoss;2.05637684052;3.51;À définir
+378;5;1srAI$R4T8ihLXSNHmUSET;EG-Fenster-6;IfcWindow;Erdgeschoss;0;0;À définir
+379;5;0B1RwEzzP3CfME5NR$Vqh5;EG-Fenster-7;IfcWindow;Erdgeschoss;0;0;À définir
+380;5;25nJxEpYf8LRDJNkMUVO0m;EG-Fenster-4;IfcWindow;Erdgeschoss;0;0;À définir
+381;5;3BFcylCsX74PQAoRAe5fNv;EG-Fenster-5;IfcWindow;Erdgeschoss;0;0;À définir
+382;5;13aSY79zb8fP4HApEJ0z_e;EG-Fenster-8;IfcWindow;Erdgeschoss;0;0;À définir
+383;5;2EQh_jhP1B_A_AMuSJc5E0;EG-Fenster-9;IfcWindow;Erdgeschoss;0;0;À définir
+384;5;1TAI4ouKX4Xx4lBDZIu5qM;EG-Fenster-1;IfcWindow;Erdgeschoss;0;0;À définir
+385;5;2Q9w7oRXP249jBobEMVqlZ;EG-Fenster-2;IfcWindow;Erdgeschoss;0;0;À définir
+386;5;1DiYqhfzH9xxuJdVHwXCNa;EG-Fenster-3;IfcWindow;Erdgeschoss;0;0;À définir
+387;5;1zOBw0Gej5Wf0QAJfHnOc0;OG-Fenster-2;IfcWindow;Dachgeschoss;0;0;À définir
+388;5;2ACmFFQhT1Ouf0x4YRUh9m;OG-Fenster-1;IfcWindow;Dachgeschoss;0;0;À définir
+389;5;0LM8GvGe$G3dlW4mZ4aA9R;Innentuer-1;IfcOpeningElement;Niveau inconnu;0;0;À définir
+390;5;253rr8ORNAORFOx911Dvez;Innentuer-2;IfcOpeningElement;Niveau inconnu;0;0;À définir
+391;5;2lV07gym5YkPLv5gWQeAr4;Innentuer-3;IfcOpeningElement;Niveau inconnu;0;0;À définir
+392;5;0seqbT9MlcQAX_K0YLzD86;EG-Fenster-6;IfcOpeningElement;Niveau inconnu;0;0;À définir
+393;5;2NE9qKcWUF2uoVhRSqTd_a;EG-Fenster-7;IfcOpeningElement;Niveau inconnu;0;0;À définir
+394;5;04RcXu1mKxpGnJw_7oRBLn;Haustuer;IfcOpeningElement;Niveau inconnu;0;0;À définir
+395;5;1c0Yk5iLrVR4e3y5gEUEKa;EG-Fenster-4;IfcOpeningElement;Niveau inconnu;0;0;À définir
+396;5;2uYaWLoMXGPW4zZLca_BWr;EG-Fenster-5;IfcOpeningElement;Niveau inconnu;0;0;À définir
+397;5;1r_KIZSL381KWyrYQXOn52;Terrassentuer;IfcOpeningElement;Niveau inconnu;0;0;À définir
+398;5;2OW0PH61vS77xxyX1o74u8;EG-Fenster-8;IfcOpeningElement;Niveau inconnu;0;0;À définir
+399;5;2cFXkmvNz6q8TXoCpAWu5Y;EG-Fenster-9;IfcOpeningElement;Niveau inconnu;0;0;À définir
+400;5;1edW1mWMGQA1AyF6LZE0rZ;EG-Fenster-1;IfcOpeningElement;Niveau inconnu;0;0;À définir
+401;5;0B6UMAQb_hdSR0n26dQbUu;EG-Fenster-2;IfcOpeningElement;Niveau inconnu;0;0;À définir
+402;5;2o6xwVLCqc7RJXOAHbb1iq;EG-Fenster-3;IfcOpeningElement;Niveau inconnu;0;0;À définir
+403;5;16PF6khT5_p$Z03P73inyv;Slab Opening;IfcOpeningElement;Niveau inconnu;0;0;À définir
+404;5;02A6FCU4lrAZ0mm$uvcVpb;OG-Fenster-2;IfcOpeningElement;Niveau inconnu;0;0;À définir
+405;5;0e2iWM3ICUNVYAkmP5YImx;OG-Fenster-1;IfcOpeningElement;Niveau inconnu;0;0;À définir
+406;5;2O1epMSyD6ol5XOFRviRIZ;Sans nom;IfcVirtualElement;Niveau inconnu;0;0;À définir
+407;5;0wuj6ac_Rv$ZYWzILFrlw0;Sans nom;IfcVirtualElement;Niveau inconnu;0;0;À définir
+408;5;3x5bWRj6N6PhHPHxSQnO1r;Sans nom;IfcVirtualElement;Niveau inconnu;0;0;À définir
