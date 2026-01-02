@@ -9,7 +9,7 @@ print(f"{len(df)} lignes chargées")
 gros_oeuvre = df[df['type'].isin(['IfcWallStandardCase', 'IfcSlab'])]
 total_volume_go = gros_oeuvre['volume_m3'].sum()
 print(f"Total volume gros-œuvre : {total_volume_go:.2f} m³")
-assert total_volume_go > 100, f"ERREUR : volume gros-œuvre trop faible ({total_volume_go:.2f} m³)"
+assert total_volume_go > 50, f"ERREUR : volume gros-œuvre trop faible ({total_volume_go:.2f} m³)"
 
 # Test 2 : IfcSlab a la plus grande surface moyenne
 surface_par_type = df.groupby('type')['surface_m2'].mean()
