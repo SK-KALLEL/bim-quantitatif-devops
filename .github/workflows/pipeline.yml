@@ -1,0 +1,21 @@
+name: Pipeline DevOps Quantitatif BIM
+
+on: [push, pull_request]
+
+jobs:
+  test-quantitatif:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le repo
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Installer pandas
+        run: pip install pandas
+
+      - name: Lancer le test quantitatif
+        run: python test_quantitatif.py
