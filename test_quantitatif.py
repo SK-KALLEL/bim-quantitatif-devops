@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Chargement des données (utilise ton Excel ou un CSV)
-df = pd.read_excel("Vue_Quantitatifs.xlsx")  # ou pd.read_csv("tab_elements.SQL.csv")
+df = pd.read_csv("tab_elements.SQL.csv")  # ou le nom de ton CSV
 
 print(f"{len(df)} lignes chargées")
 
